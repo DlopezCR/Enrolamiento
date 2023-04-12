@@ -1,0 +1,248 @@
+{
+  "dependencies": {
+    "activity_main": [
+      "app_bar_main"
+    ],
+    "activity_main2": [
+      "app_bar_main"
+    ],
+    "app_bar_main": [
+      "content_main"
+    ],
+    "fragment_liveness_view": [
+      "appposition_indicator"
+    ]
+  },
+  "class_names_log": {
+    "mappings": {
+      "activity_cap_nfc": {
+        "qualified_name": "com.latinid.mercedes.databinding.ActivityCapNfcBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_main": {
+        "qualified_name": "com.latinid.mercedes.databinding.ActivityMainBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "activity_main2": {
+        "qualified_name": "com.latinid.mercedes.databinding.ActivityMain2Binding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "app_bar_main": {
+        "qualified_name": "com.latinid.mercedes.databinding.AppBarMainBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "appposition_indicator": {
+        "qualified_name": "com.latinid.mercedes.databinding.ApppositionIndicatorBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "content_main": {
+        "qualified_name": "com.latinid.mercedes.databinding.ContentMainBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_action_button": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentActionButtonBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_aviso": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentAvisoBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_complete_process": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentCompleteProcessBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_docs": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentDocsBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_face_aware": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentFaceAwareBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_home": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentHomeBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_huellas": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentHuellasBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_identificacion": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentIdentificacionBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_in_process": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentInProcessBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_liveness_custom": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentLivenessCustomBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_liveness_view": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentLivenessViewBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_liveness_viewface": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentLivenessViewfaceBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_login": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentLoginBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_menu_id": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentMenuIdBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_menu_skip": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentMenuSkipBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_message": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentMessageBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_modo_captura": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentModoCapturaBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_nfc": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentNfcBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_password": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentPasswordBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_review": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentReviewBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_selfie": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentSelfieBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_selfie_aware": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentSelfieAwareBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_send_info": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentSendInfoBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_signature_policy": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentSignaturePolicyBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_slideshow": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentSlideshowBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_sub_menu": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentSubMenuBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_update": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentUpdateBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_view_pdf": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentViewPdfBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "image_custome_actionbar": {
+        "qualified_name": "com.latinid.mercedes.databinding.ImageCustomeActionbarBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "image_custome_actionbar_nfc": {
+        "qualified_name": "com.latinid.mercedes.databinding.ImageCustomeActionbarNfcBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "nav_header_main": {
+        "qualified_name": "com.latinid.mercedes.databinding.NavHeaderMainBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      },
+      "fragment_sendlog": {
+        "qualified_name": "com.latinid.mercedes.databinding.FragmentSendlogBinding",
+        "module_package": "com.latinid.mercedes.databinding",
+        "variables": {},
+        "implementations": []
+      }
+    }
+  }
+}
